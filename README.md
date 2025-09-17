@@ -16,6 +16,7 @@ No malicious binaries or exploit code are included.
 
 ## Indicators of Compromise
 See `ioc/` for full sanitized list.
+(ioc/)
 
 ## Key highlights
 - Infection chain: DOC → VBA Macro → encoded PowerShell (payload redacted) → DLL (`c2r64.dll`) → loader EXE → in-memory reflective injection.  
@@ -48,6 +49,7 @@ For full details, see `Executive_Summary.md`. Full raw artifacts are not publish
 ## Analyst
 
 Ben Rubin — 2025
+
 
 
 
