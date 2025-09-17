@@ -10,7 +10,7 @@ No malicious binaries or exploit code are included.
 - `analysis/` — sanitized screenshots  
 
 ## Highlights
-- Infection chain: DOC macro → PowerShell (Base64) → DLL (`c2r64.dll`) → loader EXE → memory-only payload  
+- Infection chain: DOC → PowerShell (Base64) → DLL (`c2r64.dll`) → loader EXE → memory-only payload  
 - Observed processes: `ai.exe`, `msedgewebview2.exe`  
 - Techniques: reflective DLL injection, API resolution (`ZwAllocateVirtualMemory`, `GetProcAddress`, `LoadLibrary`), anti-debugging  
 
@@ -48,6 +48,7 @@ For full details, see `Executive_Summary.md`. Full raw artifacts are not publish
 ## Analyst
 
 Ben Rubin — 2025
+
 
 
 
