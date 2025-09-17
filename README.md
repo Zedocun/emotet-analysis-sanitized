@@ -17,6 +17,13 @@ No malicious binaries or exploit code are included.
 ## Indicators of Compromise
 See `ioc/` for full sanitized list.
 
+## Key highlights
+- Infection chain: DOC → VBA Macro → encoded PowerShell (payload redacted) → DLL (`c2r64.dll`) → loader EXE → in-memory reflective injection.  
+- Observed processes: `WINWORD.EXE`, `ai.exe`, `msedgewebview2.exe`.  
+- Techniques: reflective DLL injection, API resolution, process hollowing.
+
+## Images (examples)
+Below are selected sanitized screenshots (see `analysis/screenshots/`):
 [Procmon snapshot](analysis/screenshots/procmon-powershell-01.png)
 *Figure 1: Procmon snapshot showing powershell.exe executions (encoded command redacted).*
 
@@ -39,3 +46,4 @@ See `ioc/` for full sanitized list.
 ## Analyst
 
 Ben Rubin — 2025
+
