@@ -43,10 +43,12 @@ Below are selected sanitized screenshots (see `analysis/screenshots/`):
 [Infection chain overview](analysis/screenshots/infection_chain.png)
 *Figure 6: Infection chain overview (sanitized).*
 
+For full details, see `Executive_Summary.md`. Full raw artifacts are not published and can be shared under controlled request
 
 ## Analyst
 
 Ben Rubin — 2025
+
 
 
 
