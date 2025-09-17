@@ -24,6 +24,7 @@ See `ioc/` for full sanitized list.
 
 ## Images (examples)
 Below are selected sanitized screenshots (see `analysis/screenshots/`):
+
 [Procmon snapshot](analysis/screenshots/procmon-powershell-01.png)
 *Figure 1: Procmon snapshot showing powershell.exe executions (encoded command redacted).*
 
@@ -46,5 +47,6 @@ Below are selected sanitized screenshots (see `analysis/screenshots/`):
 ## Analyst
 
 Ben Rubin — 2025
+
 
 
