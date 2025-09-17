@@ -1,4 +1,4 @@
-![Procmon snapshot](analysis/screenshots/procmon-powershell-01.png)
+[Procmon snapshot](analysis/screenshots/procmon-powershell-01.png)
 *Figure 1: Procmon snapshot showing powershell.exe executions (encoded command redacted).*
 
 ![IDA disassembly](analysis/screenshots/ida-01.png)
