@@ -15,7 +15,8 @@ No malicious binaries or exploit code are included.
 - Techniques: reflective DLL injection, API resolution (`ZwAllocateVirtualMemory`, `GetProcAddress`, `LoadLibrary`), anti-debugging  
 
 ## Indicators of Compromise
-See `ioc/` for full sanitized list.
+See `ioc/` for full sanitized list:
+
 [ioc_domains](ioc/ioc_domains.txt)
 
 ## Key highlights
@@ -49,6 +50,7 @@ For full details, see `Executive_Summary.md`. Full raw artifacts are not publish
 ## Analyst
 
 Ben Rubin — 2025
+
 
 
 
