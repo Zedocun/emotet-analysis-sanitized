@@ -9,3 +9,4 @@ c2r64-properties-01.png — File properties / security for c2r64.dll (machine/us
 module-list-01.png — Loaded modules observed in the process (module names shown).
 
 infection_chain.png — Infection chain overview (sanitized).
+
