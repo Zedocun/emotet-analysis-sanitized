@@ -51,13 +51,7 @@ For full details, see `Executive_Summary.md`. Full raw artifacts are not publish
 
 Ben Rubin — 2025
 
-
-
-
-
-
-
-
+**Connect:** [LinkedIn](https://www.linkedin.com/in/ben-rubin-4ba3531b9/)
 
 
 
