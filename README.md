@@ -1,3 +1,6 @@
+[![Read on Medium](https://img.shields.io/badge/Read%20on-Medium-00ab6c?logo=medium&logoColor=white)](https://medium.com/@izikkala5/emotet-malware-analysis-sanitized-technical-report-03eb9bfb18a8)
+
+
 # Emotet Analysis — Sanitized
 
 This repository contains a sanitized public report of an Emotet analysis.  
@@ -51,7 +54,9 @@ For full details, see `Executive_Summary.md`. Full raw artifacts are not publish
 
 Ben Rubin — 2025
 
+
 **Connect:** [LinkedIn](https://www.linkedin.com/in/ben-rubin-4ba3531b9/)
+
 
 
 
