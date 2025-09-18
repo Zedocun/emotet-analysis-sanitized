@@ -1,4 +1,4 @@
-[![Read on Medium](https://img.shields.io/badge/Read%20on-Medium-00ab6c?logo=medium&logoColor=white)](https://medium.com/@izikkala5/emotet-malware-analysis-sanitized-technical-report-03eb9bfb18a8)
+[![Read on Medium](https://img.shields.io/badge/Read%20on-Medium-00ab6c?logo=medium&logoColor=white)](https://medium.com/@Zedocun/emotet-malware-analysis-sanitized-technical-report-03eb9bfb18a8)
 
 
 # Emotet Analysis — Sanitized
@@ -56,6 +56,7 @@ Ben Rubin — 2025
 
 
 **Connect:** [LinkedIn](https://www.linkedin.com/in/ben-rubin-4ba3531b9/)
+
 
 
 
